@@ -1,7 +1,7 @@
 ## 😁HI, I am Karmanya <img src = "https://media2.giphy.com/media/QwsL2pJZ6C79npNiql/giphy.gif?cid=ecf05e477r8d4ime188zqfc15mdtrha50qc4part8mpfln8m&rid=giphy.gif&ct=s" height = "50">
 
 _First year student of mathematics and computing at [IIT Goa](https://iitgoa.ac.in/)<br>
-I love competitive programming 💻. I am a ***2★*** coder at [![CodeChef][1]][2]<br>
+I love competitive programming 💻. I am a **2★** coder at [![CodeChef][1]][2]<br>
 I code in ![Python][3] and ![C++][4]_
 
  On my way to learn more languages :\) 💪 .....
