@@ -13,7 +13,7 @@ I code in ![Python][3] and ![C++][4]*
  [![Linkedin: karmanya](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/karmanya-gupta-653a4b254/)
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/karmanya_gupta.21/)
  [![Discord](https://img.shields.io/badge/Discord-5865F2.svg?style=flat&logo=discord&logoColor=white)](http://discordapp.com/users/703258428797222973)
-<br><br><br><br><br>
+<br><br>
  <center><img align = "center" src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTJmMjQ4ZTA1MzIyOTg4M2RlYzk3NjhmYWJlNGI0YjU5YzEyNzhkNCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/h0KBN3qQOAxv6DwiFm/giphy.gif" height = "400"></center>
 
 
