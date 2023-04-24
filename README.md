@@ -1,8 +1,8 @@
 ## 😁HI, I am Karmanya <img src = "https://media2.giphy.com/media/QwsL2pJZ6C79npNiql/giphy.gif?cid=ecf05e477r8d4ime188zqfc15mdtrha50qc4part8mpfln8m&rid=giphy.gif&ct=s" height = "50">
 
-First year student of mathematics and computing at [IIT Goa](https://iitgoa.ac.in/)
-
 <img align = "right" src = "https://media1.giphy.com/media/l1J9tiMFKV8R31J9m/giphy.gif?cid=ecf05e47sh6q2e7jz5yvlpekmmqs8sdq451fhh49y33xh0pf&rid=giphy.gif&ct=s" height = "150px">
+
+First year student of mathematics and computing at [IIT Goa](https://iitgoa.ac.in/)
 
 I love competitive programming 💻. I am a ***2★*** coder at [![CodeChef][1]][2]
 
