@@ -13,6 +13,7 @@ I code in ![Python][3] and ![C++][4]
 ## <img align = 'center' src = "https://cdn-icons-png.flaticon.com/512/3601/3601336.png" height = "40" > Socials
  
  [![Twitter Follow](https://img.shields.io/twitter/follow/karmanya_21?style=social)](https://twitter.com/karmanya_21)
+ [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:karmanyagupta1421@gmail.com)
  [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/KarmanyaGupta1421)
  [![Linkedin: karmanya](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/karmanya-gupta-653a4b254/)
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/karmanya_gupta.21/)
