@@ -1,6 +1,4 @@
-# KarmanyaGupta1421.github.io
-
-## About me
+# About me
 
 Hi, my name is Karmanya Gupta
 
