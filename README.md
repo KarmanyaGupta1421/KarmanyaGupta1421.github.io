@@ -6,7 +6,7 @@ Hi, my name is Karmanya Gupta
 
 ![Profile Pic](https://img.freepik.com/free-vector/it-takes-two-tango-idiom_1308-17930.jpg?w=900&t=st=1682401148~exp=1682401748~hmac=0c8c72236bc9c7303b9b6db2da4a867952450cbaa8d7f4fccc2e487a5ac2d8f6)
 
->I am a student of Mathematics and computing at IIT Goa.<br>
+>I am a student of Mathematics and computing at [IIT Goa](https://iitgoa.ac.in/).<br>
 >I hail from Jammu.<br>
 >I am 19 years old.<br>
 
