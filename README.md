@@ -30,6 +30,8 @@ Hi, my name is Karmanya Gupta
 
 ## Hobbies and interests
 
+<img align = "right" src = "https://media1.giphy.com/media/l1J9tiMFKV8R31J9m/giphy.gif?cid=ecf05e47sh6q2e7jz5yvlpekmmqs8sdq451fhh49y33xh0pf&rid=giphy.gif&ct=s" height = "150px">
+
 1. Reading Books 
 2. Coding
 3. Star Gazing
