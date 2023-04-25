@@ -14,9 +14,9 @@ Hi, my name is Karmanya Gupta
 
 |Academic Year|Standard|School Name|
 |:---:|:---:|:----:|
-|2019-2020|10th|KC Public School|
-|2021-2022|12th|Banyan International School|
-|2022-2023|Semester-1|IIT Goa|
+|2019-2020|10th|[KC Public School](http://kcpublicschool.org/)|
+|2021-2022|12th|[Banyan International School](http://sisjammu.in/kassement.php)|
+|2022-2023|Semester-1|[IIT Goa](https://iitgoa.ac.in/)|
 
 ## Course @IIT Goa
 
@@ -27,6 +27,8 @@ Hi, my name is Karmanya Gupta
 - **NO102** , National Sports Organisation , *Dr. Santosh Upadhyay*
 - **EE101** , Electrical , *Apeksh Madhukar*
 - **BIO101** , Biology , *Nipa Chondgan*
+
+[Academic Curriculum](https://iitgoa.ac.in/AcademicCurriculum/curriculum.php) in detail
 
 ## Hobbies and interests
 
