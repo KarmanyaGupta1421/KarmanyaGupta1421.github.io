@@ -2,33 +2,21 @@
 	<head>
 		<title> My Profile </title>
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
-
-		<style>
-			body {
-				background-color: #212529;
-				color: #ADB5BD;
-			}
-			h1 {
-				color: #FFFFFF;
-			}
-			h3{
-				color: #FFFFFF;
-			}
-			td{
-				color: #ADB5BD;
-			}
-			th{
-				color: #212529;
-			}
-		</style>
+		<link rel="stylesheet" href="main.css">
 
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	</head>
 	<body bg-color = "red" class = "container">
+		<span onclick="change_theme()">
+		<img id = "toggle" src = "images/switch-dark.png">
+			<p id = "toggle-txt" class = "toggle-txt-dark" >Dark</p>
+		</span>
 
 		<h1>About me</h1>
+
 		<p>Hi, my name is <b>Karmaya Gupta</b></p>
-		<img class = "img-fluid border border-secondary rounded-pill" src = "images/heath_enhanced.png" height = "600px" width = "500px" alt = "Profile Pic">
+		<img onclick= "change_theme()" class = "img-fluid border border-secondary rounded-pill" src = "images/heath_enhanced.png" height = "600px" width = "500px" alt = "Profile Pic">
+		<p id = "img_txt">Hello</p>
 		<p><i>
 		I am a student of Mathematics and computing at <a href="https://iitgoa.ac.in/">IIT Goa</a>.<br>
 		I hail from Jammu.<br>
@@ -105,6 +93,10 @@
 			<li>Watching Cricket and Lawn Tennis</li>
 			<li>Listening to music</li>
 		</ol>
+
+
+	
+	<script src = "main.js"></script>
 
 	</body>
 
