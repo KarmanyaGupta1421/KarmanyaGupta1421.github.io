@@ -46,7 +46,8 @@ th{
     translate: 35px -33px;
 }
 
-#ha{
+#toggle-span{
+    cursor: pointer;
     float: right;
     /* background-color: red; */
     height : 40px;
@@ -55,6 +56,6 @@ th{
     transition: transform 0.3s ease;
 }
 
-#ha:hover{
+#toggle-span:hover{
     transform: translateY(-5px);
 }
