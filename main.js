@@ -3,14 +3,6 @@ function change_theme(){
     let theme = getComputedStyle(root_elem).getPropertyValue("--theme");
 
     let txt_elem = document.getElementById('toggle-txt');
-    // let main_bg_color = getComputedStyle(root_elem).getPropertyValue("--main-bg-color");
-    // let main_color = getComputedStyle(root_elem).getPropertyValue("--main-color");
-    // let h1_color = getComputedStyle(root_elem).getPropertyValue("--h1-color");
-    // let h3_color = getComputedStyle(root_elem).getPropertyValue("--h3-color");
-    // let td_color = getComputedStyle(root_elem).getPropertyValue("--td-color");
-    // let th_color = getComputedStyle(root_elem).getPropertyValue("--th-color");
-    // console.log(theme);
-    // console.log(theme === "dark");
 
     if (theme === "dark"){
         document.getElementById('toggle').src = "images/switch-light.png";
