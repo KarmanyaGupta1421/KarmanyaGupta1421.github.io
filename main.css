@@ -27,21 +27,34 @@ th{
 }
 
 #toggle{
-    float: right;
+    /* float: right; */
     border-radius: 40px;
-    translate: 0px 30px;
+    /* translate: 0px 30px; */
     height: 30pt;
     width: 60pt;
 }
 
 .toggle-txt-dark{
-    float:right;
+    /* float:right; */
     color: var(--toggle-txt-color);
-    translate : 43px 37px;
+    translate : 10px -33px;
 }
 
 .toggle-txt-light{
-    float:right;
+    /* float:right; */
     color: var(--toggle-txt-color);
-    translate: 70px 37px;
+    translate: 35px -33px;
+}
+
+#ha{
+    float: right;
+    /* background-color: red; */
+    height : 40px;
+    border-radius: 40px;
+    translate: 0px 20px;
+    transition: transform 0.3s ease;
+}
+
+#ha:hover{
+    transform: translateY(-5px);
 }
