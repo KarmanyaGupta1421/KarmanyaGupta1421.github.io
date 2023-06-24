@@ -1,122 +1,133 @@
-<html>
-	<head>
-		<title> My Profile </title>
-        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
-		<link rel="stylesheet" href="main.css">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Karmanya</title>
 
-		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	</head>
-	<body bg-color = "red" class = "container">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
 
-		<span onclick="change_theme()" id="toggle-span">
-		<img id = "toggle" src = "images/switch-dark.png">
-		<p id = "toggle-txt" class = "toggle-txt-dark" >Dark</p>
-		</span>
+    <link rel = "stylesheet" href = "style.css">
+</head>
+<body class = "container">
+    <div>
+        <h1>Karmanya Gupta</h1>
+    </div>
 
-		<div>
-			<h1>About me</h1>
+    <div>
+        <h2>I am a student of Mathematics and computing at IIT Goa</h2>
+        <h2>I hail from Jammu</h2>
+    </div>
 
-			<p>Hi, my name is <b>Karmanya Gupta</b></p>
-			<img class = "img-fluid border border-secondary rounded-pill" src = "images/heath_enhanced.png" height = "600px" width = "500px" alt = "Profile Pic">
-			<p id = "img_txt">Hello</p>
-			<p><i>
-			I am a student of Mathematics and computing at <a href="https://iitgoa.ac.in/">IIT Goa</a>.<br>
-			I hail from Jammu.<br>
-			I am 19 years old.<br>
-			</i></p>
+    
+    <div class = "social_div">
+        <div class = "social">
+            <a href="https://www.linkedin.com/in/karmanya-gupta-653a4b254/" target="_blank">
+            <div class = "child">
+                <div class = "logo">
+                    <img src="icons/linkedin.svg" class = "icon"></img>
 
-			<hr color = #FFFFFF>
-		</div>
+                </div>
 
-		<div>
-			<h1>Education</h1>
+                <div class = "social_text">
+                    Linkedin
+                </div>
+            </div>
+            </a>
+        </div>
 
-			<div class = "table-responsive">
-			<table class = "table table-bordered">
-				<caption>My education details</caption>
-				<tr class = "table-success">
-					<th>Academic Year</th>
-					<th>Standard</th>
-					<th>School Name</th>
-				</tr>
 
-				<tr>
-					<td>2019-2020</td>
-					<td>10th</td>
-					<td><a href="http://kcpublicschool.org/">KC Public School</a></td>
-				</tr>
+        <div class = "social">
+            <a href="https://github.com/KarmanyaGupta1421" target="_blank">
+            <div class = "child">
+                <div class = "logo">
+                    <img src="icons/github.svg" class = "icon"></img>
+                    <!-- <i class="bi bi-github" style="font-size: 1.5vw;"></i> -->
+                </div>
 
-				<tr>
-					<td>2021-2022</td>
-						<td>12th</td>
-					<td><a href="http://sisjammu.in/kassement.php">Banyan International School</a></td>
-				</tr>
+                <div class = "social_text">
+                    Github
+                </div>
+            </div>
+            </a>
+        </div>
 
-				<tr>
-					<td>2022-2023</td>
-						<td>Semester-1</td>
-						<td><a href="https://iitgoa.ac.in/">IIT Goa</a></td>
-				</tr>
-			</table>
-			</div>
-		</div>
 
-		<hr color = #FFFFFF>
 
-		<div>
+        <div class = "social">
+            <a href="https://leetcode.com/karmanya_gupta/" target="_blank">
+            <div class = "child">
+                <div class = "logo">
+                    <img src="icons/leetcode.svg" class = "icon"></img>
+                    <!-- <i class="bi bi-leetcode" style="font-size: 1.5vw;"></i> -->
+                </div>
 
-			<h1>Course @IIT Goa</h1>
-			
-			<h3>Spring Semester</h3>
-			<ul style = "list-style-type:square">
-				<li><b>MTH101</b>, Calculus,<i> Dr. Sandipan De</i></li>
-				<li><b>CS101</b>, Introduction to computing,<i> Clint P. George</i></li>
-				<li><b>PH101</b>, Quantum Phyics,<i> Dr. Santoh Kumar</i></li>
-				<li><b>CH101</b>, Physical Chemistry,<i> Dr. Montu Sauntra</i></li>
-			</ul>
-			
-			<h3>Autumn Semester</h3>
-			<ol type = "i">
-				<li><b>CS102</b>, Software Tools,<i> Dr. Clint P. George</i></li>
-				<li><b>MA102</b>, Lineaer Algebra,<i> Dr. Kalpesh Haria</i></li>
-				<li><b>MA102</b>, ODE,<i> Dr. Saumya Bajpayi</i></li>
-				<li><b>PH102</b>, Electrodynamics,<i> Dr. Vaibhav Vaishnik</i></li>
-				<li><b>EE101</b>, Electrical,<i> Apeksha Madhukar</i></li>
-			</ol>
+                <div class = "social_text">
+                    LeetCode
+                </div>
+            </div>
+            </a>
+        </div>
 
-			<p><a href="https://iitgoa.ac.in/AcademicCurriculum/curriculum.php">Academic Curriculum</a> in detail</p>
 
-		</div>
 
-		<hr color = #FFFFFF>
+        <div class = "social">
+            <a href="https://www.codechef.com/users/karmanyagupta" target="_blank">
+            <div class = "child">
+                <div class = "logo">
+                    <img src="icons/codechef.svg" class = "icon"></img>
+                </div>
 
-		<div>
-			<h1 id="hobbies-and-interests">Hobbies and Interests</h1>
+                <div class = "social_text">
+                    CodeChef
+                </div>
+            </div>
+            </a>
+        </div>
 
-			<p><img align="right" src="https://media1.giphy.com/media/l1J9tiMFKV8R31J9m/giphy.gif?cid=ecf05e47sh6q2e7jz5yvlpekmmqs8sdq451fhh49y33xh0pf&amp;rid=giphy.gif&amp;ct=s" height="150px" /></p>
 
-			<ol>		
-				<li>Reading Books</li>
-				<li>Coding</li>
-				<li>Star Gazing</li>
-				<li>Playing Badminton and Cricket</li>
-				<li>Watching Cricket and Lawn Tennis</li>
-				<li>Listening to music</li>
-			</ol>
-		</div>
 
-		<hr color = #FFFFFF>
+        <div class = "social">
+            <a href="https://www.instagram.com/karmanya_gupta.21/" target="_blank">
+            <div class = "child">
+                <div class = "logo">
+                    <img src="icons/instagram.svg" class = "icon"></img>
+                    <!-- <i class="bi bi-instagram" style="font-size: 1.5vw;"></i> -->
+                </div>
 
-		<div>
-			<h1>Projects :)</h1>
-			<ol>
-				<li><a href="https://karmanyagupta1421.github.io/drawingboard/">Drawing Board</a> (Works best on PC)</li>
-			</ol>
-		</div>
+                <div class = "social_text">
+                    Instagram
+                </div>
+            </div>
+            </a>
+        </div>
 
-	
-	<script src = "main.js"></script>
 
-	</body>
 
+        <div class = "social">
+            <a href="https://twitter.com/karmanya_21" target="_blank">
+            <div class = "child">
+                <div class = "logo">
+                    <img src="icons/twitter.svg" class = "icon"></img>
+                    <!-- <i class="bi bi-twitter" style="font-size: 1.5vw;"></i> -->
+                </div>
+
+                <div class = "social_text">
+                    Twitter
+                </div>
+            </div>
+            </a>
+        </div>
+        
+    </div>
+    
+    <div class = "contact">
+        <div class = "mail">
+            <a href="mailto:karmanyagupta1421@gmail.com">
+                <img src="icons/envelope-at-fill.svg" class = "icon mail" style="margin-top: 1.5vw;"></img>
+            </a>
+        </div>
+    </div>
+
+</body>
 </html>

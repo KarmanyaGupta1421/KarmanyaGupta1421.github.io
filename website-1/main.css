@@ -1,0 +1,61 @@
+:root{
+    --theme: dark;
+    --main-bg-color : #212529;
+    --main-color: #ADB5BD;
+    --h1-color : #FFFFFF;
+    --h3-color : #FFFFFF;
+    --td-color : #ADB5BD;
+    --th-color : #212529;
+    --toggle-txt-color : #FFFFFF;
+}
+
+body {
+    background-color: var(--main-bg-color);
+    color: var(--main-color);
+}
+h1 {
+    color: var(--h1-color);
+}
+h3{
+    color: var(--h3-color);
+}
+td{
+    color: var(--td-color);
+}
+th{
+    color: var(--th-color);
+}
+
+#toggle{
+    /* float: right; */
+    border-radius: 40px;
+    /* translate: 0px 30px; */
+    height: 30pt;
+    width: 60pt;
+}
+
+.toggle-txt-dark{
+    /* float:right; */
+    color: var(--toggle-txt-color);
+    translate : 10px -33px;
+}
+
+.toggle-txt-light{
+    /* float:right; */
+    color: var(--toggle-txt-color);
+    translate: 35px -33px;
+}
+
+#toggle-span{
+    cursor: pointer;
+    float: right;
+    /* background-color: red; */
+    height : 40px;
+    border-radius: 40px;
+    translate: 0px 20px;
+    transition: transform 0.3s ease;
+}
+
+#toggle-span:hover{
+    transform: translateY(-5px);
+}
